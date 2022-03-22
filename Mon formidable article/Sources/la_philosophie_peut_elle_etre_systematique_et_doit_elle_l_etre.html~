@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2022-03-22 mar. 18:22 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>La philosophie peut-elle être systématique et doit-elle l’être ?</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css" />
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">La philosophie peut-elle être systématique et doit-elle l’être ?</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org30a3ce4">Quel Rapport entre la philosophie et les sciences ?</a>
+<ul>
+<li><a href="#org01dba61">Michaël Dummet, Can Analytical Philosophy be Systematic and Ought it to Be ? (1975)</a>
+<ul>
+<li><a href="#org8169544">Contexte : Gilbert Ryle (école d'Oxford) contre Carnap.</a></li>
+<li><a href="#org679359b">Deux sortes de systématicité</a></li>
+<li><a href="#org4615324">La philosophie peut désormais être systématique aux deux sens du mot.</a></li>
+</ul>
+</li>
+<li><a href="#org3e3295e">Richard Rorty, Philosophy and the Mirror of Nature :</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org30a3ce4" class="outline-2">
+<h2 id="org30a3ce4">Quel Rapport entre la philosophie et les sciences ?</h2>
+<div class="outline-text-2" id="text-org30a3ce4">
+<p>
+3 positions : 
+</p>
+<ol class="org-ol">
+<li>Indifférence</li>
+<li>Réfuter des idées philosophiques par les sciences
+exemple : Gödel -&gt; réalisme platonicien peut être prouvé mathématiquement</li>
+<li>Vuillemin : Pas de réfutation possible en philosophie</li>
+</ol>
+</div>
+
+<div id="outline-container-org01dba61" class="outline-3">
+<h3 id="org01dba61">Michaël Dummet, Can Analytical Philosophy be Systematic and Ought it to Be ? (1975)</h3>
+<div class="outline-text-3" id="text-org01dba61">
+<p>
+Michaël Dummet plaide pour la scientificité de la philosophie du langage :
+</p>
+</div>
+
+<div id="outline-container-org8169544" class="outline-4">
+<h4 id="org8169544">Contexte : Gilbert Ryle (école d'Oxford) contre Carnap.</h4>
+<div class="outline-text-4" id="text-org8169544">
+<ul class="org-ul">
+<li>Carnap : oui (la construction logique du monde, Goodman : Structure de l'apparence)</li>
+
+<li>Oxford : non -&gt; La philosophie ne doit pas ressembler à une science</li>
+</ul>
+<p>
+cf Wittgenstein : l'objet de la philosophie n'est pas d'établir des vérités mais de rectifier les incompréhensions que nous avons de nos propres concepts.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org679359b" class="outline-4">
+<h4 id="org679359b">Deux sortes de systématicité</h4>
+<div class="outline-text-4" id="text-org679359b">
+<ul class="org-ul">
+<li>construction théorique</li>
+<li>Utilisation de méthodes de recherche communément admises.
+
+<ul class="org-ul">
+<li>exemple :
+<ul class="org-ul">
+<li>Science -&gt; systématique dans les 2 sens.</li>
+<li>Histoire -&gt; systématique dans le 2ème sens.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4615324" class="outline-4">
+<h4 id="org4615324">La philosophie peut désormais être systématique aux deux sens du mot.</h4>
+<div class="outline-text-4" id="text-org4615324">
+<ol class="org-ol">
+<li>Frege : la philosophie du langage est le fondement du reste de la discipline.</li>
+<li>La philosophie du langage requiert la construction d'une théorie articulée.</li>
+<li><p>
+La théorie de la signification peut prendre un caractère scientifique.
+</p>
+
+<p>
+ On ne peut pas savoir si cette scientificité pourra se transmettre au reste de la philosophie.
+Depuis la philosophie de l'esprit a supplanté la philosophie du langage.
+</p></li>
+</ol>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org3e3295e" class="outline-3">
+<h3 id="org3e3295e">Richard Rorty, Philosophy and the Mirror of Nature :</h3>
+<div class="outline-text-3" id="text-org3e3295e">
+<p>
+La philosophie analytique reste orienté vers la construction d'un cadre de référence neutre et permanent.
+En ce sens, philosophie cartésienne, philosophie kantienne, philosophie du language ne sont que des variantes.
+Pour Rorty, la philosophie est un secteur comme un autre et doit traiter les autres comme des partenaires pas comme un juge.
+</p>
+
+<p>
+Wittgenstein, Dewey et Heiddegger ont renoncé à la philosophie fondationnelle.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2022-03-22 mar. 18:22</p>
+</div>
+</body>
+</html>
